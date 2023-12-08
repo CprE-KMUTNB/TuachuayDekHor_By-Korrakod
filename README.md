@@ -1,5 +1,9 @@
 
-# TuachuayDekHor
+# TuachuayDekHor : เว็บไซต์ที่จะช่วยให้เด็กหอใช้ชีวิตง่ายขึ้น
+
+<p align="center">
+    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/4fece5b7-ad9f-41b1-9090-f7bd44c43838" style="width: 850px; height: 500px;">
+</p>
 
 เป็น Blog เว็บไซต์ที่มีจุดประสงค์เพื่อจะให้เด็กหอสามารถใช้ชีวิตได้ง่ายขึ้นโดยการรวบรวมทริคการใช้ชีวิตและการแชร์ประสบการณ์ต่างๆ ที่ภายในเว็บไซต์จะแบ่งเป็น 4 หมวดหมู่ คือ
 
