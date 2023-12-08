@@ -37,7 +37,7 @@
 </p>
 
 - การเขียน Blog และการ Delete
-	 - ผู้ใช้สามารถเป็น Blogger ได้โดยการเขียน Blog ที่สนใจได้ที่หน้า ฺBlogging ของเว็บไซต์ หรือจะทำการลบ Blog ที่ตัวเองเขียนก็สามารถทำได้
+	 - ผู้ใช้สามารถเป็น Blogger ได้โดยการเขียน Blog ที่สนใจได้ที่หน้า Blogging ของเว็บไซต์ หรือจะทำการลบ Blog ที่ตัวเองเขียนก็สามารถทำได้
  <p align="center">
     <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/f6a69e74-0d32-4dfe-aa56-158802d0f04b" style="width: 700px; height: 325px;">
 </p>
