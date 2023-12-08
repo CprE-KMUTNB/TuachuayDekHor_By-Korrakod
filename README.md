@@ -48,7 +48,7 @@
 ``` bash
 git clone https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod.git
 
-cd TuachuayDekHor
+cd TuachuayDekHor_By-Korrakod
 
 npm install
 ```
