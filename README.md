@@ -1,10 +1,6 @@
 
 # TuachuayDekHor
 
-<p align="center">
-  <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/772d1f8d-c374-4ec6-9953-d6151c51b4a0" width: 150px; height: 150px;">
-</p>
-
 เป็น Blog เว็บไซต์ที่มีจุดประสงค์เพื่อจะให้เด็กหอสามารถใช้ชีวิตได้ง่ายขึ้นโดยการรวบรวมทริคการใช้ชีวิตและการแชร์ประสบการณ์ต่างๆ ที่ภายในเว็บไซต์จะแบ่งเป็น 4 หมวดหมู่ คือ
 
 - การทำอาหาร (Cooking)
