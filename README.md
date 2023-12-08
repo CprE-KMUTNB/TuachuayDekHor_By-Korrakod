@@ -51,6 +51,8 @@ git clone https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod.git
 cd TuachuayDekHor_By-Korrakod
 
 npm install
+
+npm install @craco/craco --save
 ```
 
 ## วิธีการใช้งาน
