@@ -23,24 +23,31 @@
 ## ฟีเจอร์การทำงานของเว็บไซต์
 
  - การค้นหา
+   	- ผู้ใช้งานสามารถอ่าน Blog ในแต่ละหัวข้อที่ตัวเองสนใจได้จากการดูในแต่ละหมวดหมู่ (การทำอาหาร การทำความสะอาด การตกแต่งห้อง และเรื่องเล่า) หรือจะเป็นการเสิร์ช Blog ที่ต้องการในช่องค้นหาก็ได้
+		 <p align="center">
+		    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/4cc03d21-e4e8-4022-a9ec-71894091d966" style="width: 650px; height: 250px;">
+		</p>
    	- ผู้ใช้สามารถค้นหา Blogger ที่ตัวเองสนใจในหน้า Blogger ของเว็บไซต์
-	 - ผู้ใช้งานสามารถอ่าน Blog ในแต่ละหัวข้อที่ตัวเองสนใจได้จากการดูในแต่ละหมวดหมู่ (การทำอาหาร การทำความสะอาด การตกแต่งห้อง และเรื่องเล่า) หรือจะเป็นการเสิร์ช Blog ที่ต้องการในช่องค้นหาก็ได้
-    
- <p align="center">
-    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/4cc03d21-e4e8-4022-a9ec-71894091d966" style="width: 700px; height: 250px;">
-</p>
+   	  	<p align="center">
+		    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/5fa7a0c7-98a4-4006-8d1c-287f6496af8f" style="width: 650px; height: 250px;">
+		</p>
+	 
 
 - การ Save และการ Comment
 	 - ผู้ใช้ที่อ่าน Blog สามารถทำการ Save Blog ที่ตัวเองสนใจเพื่อเก็บไว้ในหน้า Profile เพื่อนำมาอ่านซ้ำและสามารถแสดงความคิดเห็นได้
- <p align="center">
-    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/b504eda8-5ff7-44a5-a89e-31287bdd53de" style="width: 400px; height: 250px;">
-</p>
+		 <p align="center">
+		    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/b504eda8-5ff7-44a5-a89e-31287bdd53de" style="width: 400px; height: 250px;">
+		</p>
 
 - การเขียน Blog และการ Delete
-	 - ผู้ใช้สามารถเป็น Blogger ได้โดยการเขียน Blog ที่สนใจได้ที่หน้า Blogging ของเว็บไซต์ หรือจะทำการลบ Blog ที่ตัวเองเขียนก็สามารถทำได้
- <p align="center">
-    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/f6a69e74-0d32-4dfe-aa56-158802d0f04b" style="width: 700px; height: 325px;">
-</p>
+	 - ผู้ใช้สามารถเป็น Blogger ได้โดยการเขียน Blog ที่สนใจได้ที่หน้า Blogging ของเว็บไซต์ 
+		 <p align="center">
+		    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/e79e4009-d9a3-4684-9d90-e813d0c5fabf" style="width: 650px; height: 400px;">
+		</p>
+	- ผู้ใช้สามารถทำการลบ Blog ที่ตัวเองเขียน
+	 	<p align="center">
+		    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/f6a69e74-0d32-4dfe-aa56-158802d0f04b" style="width: 700px; height: 325px;">
+		</p>
 
 - การเปลี่ยนข้อมูลส่วนตัว
 	- ผู้ใช้สามารถทำการเปลี่ยนชื่อผู้ใช้และรูปโปรไฟล์ได้
