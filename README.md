@@ -55,7 +55,7 @@
     <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/9a3fb041-9f01-42b3-b263-521a5522a8be" style="width: 500px; height: 400px;">
 </p>
 
-สามารถดู <a href="https://kmutnbacth-my.sharepoint.com/:b:/g/personal/s6501012610017_kmutnb_ac_th/ERyOlPUJdoVKlGrgXvMnLpIBnxcP480DJwfSZpPGEuZcJw?e=ErcjGo">คู่มือการใช้งาน</a> เพื่อเข้าใจการทำงานของเว็บไซต์ 
+สามารถดูคู่มือการใช้งาน ( <a href="https://kmutnbacth-my.sharepoint.com/:b:/g/personal/s6501012610017_kmutnb_ac_th/ERyOlPUJdoVKlGrgXvMnLpIBnxcP480DJwfSZpPGEuZcJw?e=ErcjGo">คลิกที่นี่</a> ) เพื่อเข้าใจการทำงานของเว็บไซต์ 
 
 ## เครื่องมือในการใช้งาน
 - Node.js
