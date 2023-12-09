@@ -34,13 +34,13 @@
 	 
 
 - การ Save และการ Comment
-	 - ผู้ใช้ที่อ่าน Blog สามารถทำการ Save Blog ที่ตัวเองสนใจเพื่อเก็บไว้ในหน้า Profile เพื่อนำมาอ่านซ้ำและสามารถแสดงความคิดเห็นได้
+	 - ผู้ใช้ที่อ่าน Blog ซึ่งจะต้อง login แล้วสามารถทำการ Save Blog ที่ตัวเองสนใจเก็บไว้ในหน้า Profile เพื่อนำมาอ่านซ้ำและสามารถแสดงความคิดเห็นได้
 		 <p align="center">
 		    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/b504eda8-5ff7-44a5-a89e-31287bdd53de" style="width: 400px; height: 250px;">
 		</p>
 
 - การเขียน Blog และการ Delete
-	 - ผู้ใช้สามารถเป็น Blogger ได้โดยการเขียน Blog ที่สนใจได้ที่หน้า Blogging ของเว็บไซต์ 
+	 - ผู้ใช้ที่ login แล้วสามารถเป็น Blogger ได้โดยการเขียน Blog ที่สนใจได้ที่หน้า Blogging ของเว็บไซต์ 
 		 <p align="center">
 		    <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/e79e4009-d9a3-4684-9d90-e813d0c5fabf" style="width: 650px; height: 400px;">
 		</p>
@@ -50,7 +50,7 @@
 		</p>
 
 - การเปลี่ยนข้อมูลส่วนตัว
-	- ผู้ใช้สามารถทำการเปลี่ยนชื่อผู้ใช้และรูปโปรไฟล์ได้
+	- ผู้ใช้ที่ทำการ login แล้วสามารถทำการเปลี่ยนชื่อผู้ใช้และรูปโปรไฟล์ได้
  <p align="center">
     <img src="https://github.com/CprE-KMUTNB/TuachuayDekHor_By-Korrakod/assets/142489002/9a3fb041-9f01-42b3-b263-521a5522a8be" style="width: 500px; height: 400px;">
 </p>
